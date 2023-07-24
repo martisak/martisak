@@ -1,16 +1,14 @@
+
+
 ### Hi there 👋
 
-<!--
-**martisak/martisak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**You may want to**
+  
+- 📝 Read my blog posts about  about the life as a PhD student with focus on reproducible research [here](https://blog.martisak.se/).
 
-Here are some ideas to get you started:
+- 🗞 Read my publications [here](https://blog.martisak.se/publications/).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Latest blog posts**
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
