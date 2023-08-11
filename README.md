@@ -11,9 +11,9 @@
 **Latest blog posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [Top LaTeX commands and macros for academic writing &lpar;and more&rpar;](https://blog.martisak.se/2023/08/11/top-latex-commands/)
 - [Publishing IEEE pre-prints](https://blog.martisak.se/2023/07/26/ieee-pre-prints/)
 - [Adaptive Expert Models for Personalization in Federated Learning](https://blog.martisak.se/2022/06/11/moe-ifca/)
 - [Adding Sparklines to LaTeX tables using Pandas](https://blog.martisak.se/2021/10/23/sparklines/)
 - [Create publication ready tables with Pandas](https://blog.martisak.se/2021/04/10/publication_ready_tables/)
-- [Bootstrapping your next LaTeX project](https://blog.martisak.se/2020/07/23/bootstrapping-your-next-latex-project/)
 <!-- BLOG-POST-LIST:END -->
