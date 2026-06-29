@@ -12,7 +12,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Best Paper Award at IEEE FNWF 2023](https://blog.martisak.se/2023/11/15/fnwf/)
-- [Optimizing Your LaTeX Workflow: A Guide to Choosing a Build System](https://blog.martisak.se/2023/10/01/compiling/)
+- [Which LaTeX Build System Is Fastest? A Benchmark](https://blog.martisak.se/latex-build-systems-comparison/)
 - [Top LaTeX commands and macros for academic writing](https://blog.martisak.se/top-latex-commands/)
 - [Publishing IEEE pre-prints](https://blog.martisak.se/2023/07/26/ieee-pre-prints/)
 - [Adaptive Expert Models for Personalization in Federated Learning](https://blog.martisak.se/2022/06/11/moe-ifca/)
